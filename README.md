@@ -68,7 +68,6 @@ plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-100)"],c="orange",l
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
 
 ## Data Head:
 ![image](https://github.com/JoyceBeulah/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118343698/7eb6e04b-0b61-4156-b4e6-5b071d1ede9b)
