@@ -20,11 +20,9 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Program:
 ```
-
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: LEANN JOBY MATHEW
 RegisterNumber:  212222230074
-
 ```
 ```
 import pandas as pd
@@ -70,23 +68,22 @@ plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-100)"],c="orange",l
 ## Output:
 
 ## Data Head:
-![image](https://github.com/JoyceBeulah/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118343698/7eb6e04b-0b61-4156-b4e6-5b071d1ede9b)
+![image](https://github.com/Leann4468/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121165979/dfc8bc85-3758-442a-b6e5-b5d856bd71aa)
 
 ## Checking For Null Data:
-![image](https://github.com/JoyceBeulah/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118343698/5dda8a64-573b-489e-b049-4f52672c6eb7)
+![image](https://github.com/Leann4468/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121165979/54136b02-9088-44f5-bef3-96f077beac0f)
 
 ## Data Information:
-![image](https://github.com/JoyceBeulah/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118343698/dafbcd94-4b34-4e64-9342-0de30c86123e)
+![image](https://github.com/Leann4468/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121165979/2e9f73e1-efef-4350-95a5-ca4e3a34f055)
 
 ## Elbow Method Graph:
-![image](https://github.com/JoyceBeulah/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118343698/241af4e6-ea19-40b5-a4db-664b86b3af8b)
+![image](https://github.com/Leann4468/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121165979/6bbe22d8-e71a-4fed-a2cc-3285d447be6f)
 
 ## K-means Cluster:
-![image](https://github.com/JoyceBeulah/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118343698/b48ce1fa-aed0-46dd-ba1c-6d93743182e5)
+![image](https://github.com/Leann4468/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121165979/cb1e87eb-fa81-4817-8ef6-1d6a80c420f4)
 
 ## Customer Segments Graph:
-![image](https://github.com/JoyceBeulah/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118343698/9fa17ecf-2310-49ee-bfe0-3089fddf19b5)
-
+![image](https://github.com/Leann4468/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121165979/461d8ba8-8a6b-432c-9e5c-e7a459f2bf9c)
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
